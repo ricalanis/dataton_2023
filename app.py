@@ -20,6 +20,7 @@ def process_file(uploaded_file):
 
 # Main page layout
 st.title("Subir Archivo JSON del Contrato a Analizar")
+st.write("(Se puede subir cualquier archivo ya que es un mock)")
 
 # File uploader
 uploaded_file = st.file_uploader("Elige el Archivo")
