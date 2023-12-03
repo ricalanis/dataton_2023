@@ -19,7 +19,7 @@ El proyecto requiere varias librerías de Python, que se detallan en el archivo 
 * Numpy
 * Scikit-learn
 * Jupyter
-* (Otras librerías específicas que se encuentren en requirements.txt)
+* Streamlit
 
 **⠀Cómo Usar**
 Para utilizar este repositorio:
